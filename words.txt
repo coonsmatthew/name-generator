@@ -1539,7 +1539,6 @@ dance
 bearer
 sunset
 apple
-
 tailings
 top
 taggin’
@@ -1567,63 +1566,6 @@ buffalo
 wink
 squash
 tolerance
-Matthews-MacBook-Pro:dev matthewcoons$ rm words.txt 
-Matthews-MacBook-Pro:dev matthewcoons$ mv words2.txt words.txt
-Matthews-MacBook-Pro:dev matthewcoons$ ls
-robot-names.py	test.py		words.txt
-Matthews-MacBook-Pro:dev matthewcoons$ python robot-names.py 
-First Choice: dream warship
-Second Choice: shadow perpetual
-Third Choice: tangerine new
-Matthews-MacBook-Pro:dev matthewcoons$ python robot-names.py 
-First Choice: flagrant arms
-Second Choice: backside cache atm
-Third Choice: provide mania
-Matthews-MacBook-Pro:dev matthewcoons$ python robot-names.py 
-First Choice: mellon indigo
-Second Choice: goose buddha
-Third Choice: severe drop
-Matthews-MacBook-Pro:dev matthewcoons$ python robot-names.py 
-First Choice: artificial barracuda
-Second Choice: roundup media
-Third Choice: foe game port
-Matthews-MacBook-Pro:dev matthewcoons$ python robot-names.py 
-First Choice: roger pimp
-Second Choice: python tip
-Third Choice: tome invective
-Matthews-MacBook-Pro:dev matthewcoons$ python robot-names.py 
-First Choice: home tsunami
-Second Choice: buddha arch
-Third Choice: ack fry
-Matthews-MacBook-Pro:dev matthewcoons$ python robot-names.py 
-First Choice: promote soiled
-Second Choice: click-through tora
-Third Choice: everready bios
-Matthews-MacBook-Pro:dev matthewcoons$ python robot-names.py 
-First Choice: jello hardihood
-Second Choice: corkscrew dip
-Third Choice: scimitar dung
-Matthews-MacBook-Pro:dev matthewcoons$ python robot-names.py 
-First Choice: tora polite
-Second Choice: angry beautiful
-Third Choice: misplaced abilene
-Matthews-MacBook-Pro:dev matthewcoons$ python robot-names.py 
-First Choice: that’s goat
-Second Choice: on nerve
-Third Choice: pale widow
-Matthews-MacBook-Pro:dev matthewcoons$ python robot-names.py 
-First Choice: command line ground
-Second Choice: iceburg cab
-Third Choice: transgression vcard
-Matthews-MacBook-Pro:dev matthewcoons$ python robot-names.py 
-First Choice: savory blatant
-Second Choice: black minerva
-Third Choice: buoyant organic
-Matthews-MacBook-Pro:dev matthewcoons$ python robot-names.py 
-First Choice: and iscariot
-Second Choice: cougar lan
-Third Choice: glv lilliput
-Matthews-MacBook-Pro:dev matthewcoons$ cat words.txt 
 404
 802.11
 1000base-t
